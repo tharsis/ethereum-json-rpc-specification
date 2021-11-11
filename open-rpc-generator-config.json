@@ -4,17 +4,17 @@
     "components": [
         {
             "type": "client",
-            "name": "@etclabscore/ethereum-json-rpc",
+            "name": "@tharsis/evm-json-rpc",
             "language": "typescript"
         },
         {
             "type": "client",
-            "name": "ethereum-json-rpc",
+            "name": "evm-json-rpc",
             "language": "rust"
         },
         {
             "type": "docs",
-            "name": "ethereum-json-rpc-specification-website",
+            "name": "evm-json-rpc",
             "language": "gatsby"
         }
     ]
